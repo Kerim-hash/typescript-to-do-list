@@ -6,12 +6,10 @@
   margin: 0;
   box-sizing: border-box;
 }
-
 body {
   height: 100vh;
   background: #eeeeff;
 }
-
 .btn,
 .form-input {
   outline: none;
@@ -68,7 +66,6 @@ body {
   transition: 0.3s ease;
   background: #357cff8f;
 }
-
 .form-input {
   background-color: #e3edf7;
   border: none;
@@ -92,7 +89,6 @@ body {
     -5px -5px 10px rgba(255, 255, 255, 0.5);
   background-color: lighten(#e3edf7, 3%);
 }
-
 input[type="checkbox"] {
   position: relative;
   width: 24px;
